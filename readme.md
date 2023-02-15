@@ -2,7 +2,7 @@
 ##  Countries Details App
 
 # Live link
-
+## https://jocular-platypus-a8e123.netlify.app
 
 # Description
 In this project you can gather information about any country in the world by just type it name.
